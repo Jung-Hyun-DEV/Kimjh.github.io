@@ -1,12 +1,12 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: C Language
+  description: 게임 개발에 관심이 많아서 C, C++, C# 을 사용할 수 있고 Unity, Unreal Engine등의 개발툴도 사용할 수 있습니다.
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Python
+  description: 여러가지 파이썬 라이브러리를 사용해서 직접 사용하기 편한 프로그램을 제작할 수 있습니다.
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Java
+  description: 안드로이드 앱 개발과 SpringBoot를 사용해서 웹페이지를 제작할 수 있습니다.
