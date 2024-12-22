@@ -1,5 +1,5 @@
 # Site settings
-title: "김정현 포트폴리오 사이트트"
+title: "김정현 포트폴리오 사이트"
 description: ""
 
 # Build settings
@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "false"
-resume_name:                    "김정현 포트폴리오오"
+resume_name:                    "김정현 포트폴리오"
 resume_title:                   "자기소개"
 
 # used for the contact button in _layouts/resume.html
